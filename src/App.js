@@ -23,20 +23,20 @@ class App extends Component {
         </div>
         <div id="map">
           <ReactMapboxGl
-            style="mapbox://styles/mapbox/streets-v10"
+            style="mapbox://styles/mapbox/light-v9"
             accessToken="pk.eyJ1IjoiY2xhYXJhZnkiLCJhIjoiY2ozZ2RjZHo1MDA0bjMzanl3eTdrbTV6bSJ9.gX0zPVpXPIFQYzrexV8XoA"
             containerStyle={{
               height: "90vh",
               width: "100vw"
             }}
-            center={[0,0]}
+            center={[-118.325160,34.031410]}
             >
-          {/* <Layer
+          <Layer
             type="symbol"
             id="marker"
             layout={{ "icon-image": "marker-15" }}>
-            <Feature coordinates={[-0.481747846041145, 51.3233379650232]}/>
-          </Layer> */}
+            <Feature coordinates={[-118.325160,34.031410]}/>
+          </Layer>
           </ReactMapboxGl>
         </div>
       </div>
