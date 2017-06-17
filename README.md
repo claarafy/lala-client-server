@@ -39,7 +39,7 @@ Build!
 
 [User Stories List](https://1drv.ms/x/s!Atf2EKHjvdCegQSuzjkKQMYP2JJR)
 
-[Trello Board] (https://trello.com/b/pg3n0e4l/project-04-la-la-park)
+[Trello Board](https://trello.com/b/pg3n0e4l/project-04-la-la-park)
 
 ## Unsolved Problems / Additional Features
 - Search by location and time, with conditional parking data according to the data provided.
