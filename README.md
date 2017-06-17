@@ -5,7 +5,7 @@
 --
 **NO LALA LAND** is an online map application with street parking information (street cleaning, parking hours, parking fees, etc) in vicinity of the location queried, in purpose of solving street parking problems and preventing parking ticket issues.
 
-![](nolala.png)
+![](images/nolala.png)
 
 Come visit [NO LALA LAND](https://lala-park.herokuapp.com/)!
 
@@ -33,9 +33,13 @@ Build!
 
 ###Project Organization
 --
-[User Stories List](https://1drv.ms/x/s!Atf2EKHjvdCegQSuzjkKQMYP2JJR)
+**ERD Modeling**
+![](images/Project04_model.png)
 
-[ERD Model] ()
+**Wireframe**
+![](images/Project04_wireframe.png)
+
+[User Stories List](https://1drv.ms/x/s!Atf2EKHjvdCegQSuzjkKQMYP2JJR)
 
 [Trello Board] (https://trello.com/b/pg3n0e4l/project-04-la-la-park)
 
